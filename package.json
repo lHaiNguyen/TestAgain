@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/nrs-minhdoan/witch-tattoo-webapp/issues"
   },
-  "homepage": "https://github.com/nrs-minhdoan/witch-tattoo-webapp",
+  "homepage": "https://nrs-minhdoan.github.io/witch-tattoo-webapp/",
   "dependencies": {
     "@material-ui/core": "^3.9.0",
     "@material-ui/icons": "^3.0.2",
